@@ -1,1 +1,24 @@
-{"ctvox":["/ctvox/10_ctvox.wav","/ctvox/11_ctvox.wav","/ctvox/12_ctvox.wav","/ctvox/13_ctvox.wav","/ctvox/14_ctvox.wav","/ctvox/15_ctvox.wav","/ctvox/16_ctvox.wav","/ctvox/17_ctvox.wav","/ctvox/18_ctvox-bounce-1.wav","/ctvox/19_ctvox.wav","/ctvox/20_ctvox.wav","/ctvox/21_ctvox.wav","/ctvox/22_ctvox.wav","/ctvox/23_ctvox.wav","/ctvox/24_ctvox.wav","/ctvox/25_ctvox.wav","/ctvox/26_ctvox_sing-bounce-4.wav","/ctvox/27_ctvox.wav","/ctvox/28_ctvox.wav"],"_base":"http://localhost:5432"}
+{
+    "ctvox": [
+        "/ctvox/10_ctvox.wav",
+        "/ctvox/11_ctvox.wav",
+        "/ctvox/12_ctvox.wav",
+        "/ctvox/13_ctvox.wav",
+        "/ctvox/14_ctvox.wav",
+        "/ctvox/15_ctvox.wav",
+        "/ctvox/16_ctvox.wav",
+        "/ctvox/17_ctvox.wav",
+        "/ctvox/18_ctvox-bounce-1.wav",
+        "/ctvox/19_ctvox.wav",
+        "/ctvox/20_ctvox.wav",
+        "/ctvox/21_ctvox.wav",
+        "/ctvox/22_ctvox.wav",
+        "/ctvox/23_ctvox.wav",
+        "/ctvox/24_ctvox.wav",
+        "/ctvox/25_ctvox.wav",
+        "/ctvox/26_ctvox_sing-bounce-4.wav",
+        "/ctvox/27_ctvox.wav",
+        "/ctvox/28_ctvox.wav"
+    ],
+    "_base": "https://raw.githubusercontent.com/switchangel/beginningtrance/main/"
+}

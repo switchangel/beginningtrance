@@ -1,2 +1,1 @@
-# beginningtrance
-samples from the trance video
+Pattern for In the Beginng There was Trance is available on my patreon: https://www.patreon.com/c/SwitchAngel
